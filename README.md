@@ -2,8 +2,8 @@
 BLUR is a simple RC car controlled by bluetooth
 
 # PLANS
-WORK\n
-TELEMETRY\n
-OBSTACLE DETECTION\n
-LINE FOLLOWING\n
-ANDROID APP (wii wheel style control)\n
+WORK<br>
+TELEMETRY<br>
+OBSTACLE DETECTION<br>
+LINE FOLLOWING<br>
+ANDROID APP (wii wheel style control)<br>
